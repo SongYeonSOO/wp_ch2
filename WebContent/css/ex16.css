@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+/*
+main css를 import할 줄 모르면 복붙해야겠지 ㄷㄷ
+하지만 import할 수 있다!
+*/
+@import "/wp_ch2/css/main.css";
+
+/*이제 ex16.css만의 것을 정의하자*/
+body {
+	background-color: #ff6
+}
+
+h1 {
+	color: #000
+}
